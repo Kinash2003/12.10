@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  12.10.test.cpp
+D:\Lab_12\12.10\12.10.test\12.10.test.cpp(19,8): warning C4101: value: неиспользованная локальная переменная
+     Создается библиотека D:\Lab_12\12.10\Debug\12.10.test.lib и объект D:\Lab_12\12.10\Debug\12.10.test.exp
+  12.10.test.vcxproj -> D:\Lab_12\12.10\Debug\12.10.test.dll
